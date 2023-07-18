@@ -1,0 +1,20 @@
+[app/ui]
+version = 6.3.0
+modtime = 1447164052.588245000
+
+[app/launcher]
+version = 6.3.0
+modtime = 1447164052.588998000
+
+[views/greenbone_dashboard]
+owner = admin
+version = 6.3.0
+modtime = 1447168129.002781000
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+
+[props/Greenbone%20Scan%20Results/FIELDALIAS-vulnerabilitymodel]
+version = 9.0.4.1
+modtime = 1689125342.388546000
